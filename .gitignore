@@ -1,6 +1,7 @@
 # Compiler files
 cache/
 out/
+zkout/
 
 # Commonly ignored directories
 .logs/
@@ -13,6 +14,8 @@ out/
 
 # Docs
 docs/
+signature.txt
+*.log
 
 # Dotenv file
 .env
